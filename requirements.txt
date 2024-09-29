@@ -1,0 +1,6 @@
+gradio
+pytesseract
+Pillow
+torch
+transformers
+easyocr
